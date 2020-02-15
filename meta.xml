@@ -1,0 +1,10 @@
+<meta>
+	<info author="Konders" type="script" name="BouncingDVD"/>
+	<script src="settings.lua" type="client" />
+	
+	<script src="class/Logo.lua" type="client" />
+	<script src="class/Area.lua" type="client" />
+	<script src="client.lua" type="client" />
+
+	<file src="assets/logo.png"/>
+</meta>
